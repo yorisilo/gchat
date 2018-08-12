@@ -2,3 +2,9 @@
 
 # chat
 websocket chat golang
+
+## usage
+``` shell
+> cd chat
+> go run main.go
+```
